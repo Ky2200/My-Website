@@ -1,6 +1,6 @@
 ---
 title: Why i love Dr. Strange!
-date: YYYY-MM-DD
+date: 2024-10-14
 ---
 
 I love the movie Dr. Strange, so here is some information about it and why it got me into learning physics!
